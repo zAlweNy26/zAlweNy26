@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
+
 <!--
 **zAlweNy26/zAlweNy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
