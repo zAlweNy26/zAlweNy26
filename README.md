@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there ! 👋
+### Welcome to my profile, hope you enjoy it !
 
 ![zAlweNy26's github stats](https://github-readme-stats.vercel.app/api?username=zAlweNy26&theme=blueberry&count_private=true&show_icons=true&include_all_commits=true)
 <br>
