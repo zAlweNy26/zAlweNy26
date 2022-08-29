@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-[![HamiltonPharmD StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/14122375)](https://stackoverflow.com/users/14122375/hamiltonpharmd)
+![zAlweNy26's github stats](https://github-readme-stats.vercel.app/api?username=zAlweNy26&theme=blueberry&count_private=true&show_icons=true&include_all_commits=true)
+<br>
+![zAlweNy26's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zAlweNy26&theme=blueberry&count_private=true&show_icons=true&include_all_commits=true)
+<br>
 
 <!--
 **zAlweNy26/zAlweNy26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
