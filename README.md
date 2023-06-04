@@ -47,17 +47,17 @@
 
 <br/>
 
-<!--<picture>
+<picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zAlweNy26&theme=dark&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zAlweNy26&theme=vue-dark&layout=compact"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zAlweNy26&layout=compact"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=zAlweNy26&layout=compact&theme=vue"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zAlweNy26&layout=compact" />
-</picture>-->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zAlweNy26&layout=compact&theme=vue" />
+</picture>
 
 <!--
 - 🔭 I’m currently working on ...
