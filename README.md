@@ -1,11 +1,13 @@
 ## Hi there ! 👋
 ### Welcome to my profile, hope you enjoy it !
 
-- 🔭 I’m currently working on the frontend of the [Cheshire Cat](https://github.com/cheshire-cat-ai/admin-vue) and some personal projects
-- 🌱 I’m currently learning how to work in team and increasing my Vue.js skills
+- 🔭 I’m currently working on the [Cheshire Cat AI project](https://github.com/cheshire-cat-ai/admin-vue) and some personal projects
+- 🌱 I’m currently learning how to work in a team and increasing my Vue.js and TypeScript skills!
 - 💬 Ask me about anything!
-- 📫 How to reach me: **Alwe#4796** on Discord
+- 📫 How to reach me: **alwe** on Discord
 - 😄 Pronouns: he/him
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zAlweNy26&theme=vue-dark&border_radius=5&date_format=j%2Fn%5B%2FY%5D&mode=weekly&card_width=450&card_height=200)](https://git.io/streak-stats)
 
 <picture>
 <source
@@ -21,20 +23,6 @@
 
 <picture>
 <source
-  srcset="https://github-readme-streak-stats.herokuapp.com?user=zAlweNy26&theme=vue-dark&border_radius=5&mode=weekly&card_width=400"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-streak-stats.herokuapp.com?user=zAlweNy26&theme=vue&border_radius=5&mode=weekly&card_width=400&theme=vue"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zAlweNy26&theme=vue&border_radius=5&mode=weekly&card_width=400&theme=vue" />
-</picture>
-
-<br/>
-
-<picture>
-<source
   srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zAlweNy26&theme=vue-dark&size_weight=0.4&count_weight=0.6"
   media="(prefers-color-scheme: dark)"
 />
@@ -44,8 +32,6 @@
 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zAlweNy26&size_weight=0.4&count_weight=0.6&theme=vue" />
 </picture>
-
-<br/>
 
 <picture>
 <source
