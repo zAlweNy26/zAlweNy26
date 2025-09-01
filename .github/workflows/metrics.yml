@@ -3,7 +3,8 @@ name: Metrics
 
 on:
   # Schedule updates
-  schedule: [{cron: "0 */12 * * *"}]
+  schedule: 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches: [ "main" ]
@@ -26,17 +27,11 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_lines: yes
           plugin_languages: yes
-          plugin_languages_ignored: css
+          plugin_languages_ignored: yaml, json, toml
           plugin_notable: yes
           plugin_traffic: yes
           plugin_topics: yes
           plugin_topics_mode: "mastered"
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_days: 30
-          plugin_wakatime_sections: time, projects, languages-graphs
-          plugin_wakatime_limit: 5
-          plugin_wakatime_languages_ignored: css, yml, yaml, json, svg, md
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561198154675159"
@@ -46,3 +41,19 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_limit: 1
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_TOKEN }}
+          SHOW_TITLE: true
+          SHOW_TOTAL: true
+          SHOW_TIME: true
+          LANG_COUNT: 10
+          TIME_RANGE: last_30_days
+          IGNORED_LANGUAGES: YAML JSON TOML
+          BLOCKS: ░▒▓█
+          CODE_LANG: bash
+          COMMIT_MESSAGE: "Update WakaTime section - [Skip GitHub Action]"
+          COMMITTER_NAME: "zAlweNy26"
+          COMMITTER_EMAIL: "alwe.dev@gmail.com"
+          AUTHOR_NAME: "zAlweNy26"
+          AUTHOR_EMAIL: "alwe.dev@gmail.com"
