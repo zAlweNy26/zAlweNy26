@@ -12,18 +12,18 @@
 <!--START_SECTION:waka-->
 
 ```bash
-From: 01 August 2025 - To: 31 August 2025
+From: 02 August 2025 - To: 01 September 2025
 
-Total Time: 113 hrs 18 mins
+Total Time: 118 hrs 57 mins
 
-Vue.js        63 hrs          ██████████████░░░░░░░░░░░   55.57 %
-TypeScript    26 hrs 35 mins  ██████░░░░░░░░░░░░░░░░░░░   23.45 %
-HTML          2 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
-Rust          2 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
-Markdown      1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
-Kotlin        1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-CSS           58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
-PHP           40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
+Vue.js        64 hrs 8 mins   █████████████▒░░░░░░░░░░░   53.89 %
+TypeScript    28 hrs 27 mins  ██████░░░░░░░░░░░░░░░░░░░   23.92 %
+PHP           3 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
+HTML          2 hrs 34 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Rust          2 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Markdown      1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Kotlin        1 hr 8 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+CSS           58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
