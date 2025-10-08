@@ -12,18 +12,18 @@
 <!--START_SECTION:waka-->
 
 ```bash
-From: 06 September 2025 - To: 06 October 2025
+From: 07 September 2025 - To: 07 October 2025
 
-Total Time: 164 hrs 38 mins
+Total Time: 173 hrs 27 mins
 
-Vue.js       92 hrs 32 mins  ██████████████░░░░░░░░░░░   55.94 %
-TypeScript   36 hrs 23 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-PHP          7 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 %
-Kotlin       6 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Docker       4 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
-CSS          2 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-JavaScript   1 hr 44 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-Python       1 hr 30 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Vue.js       93 hrs 43 mins  █████████████▒░░░░░░░░░░░   53.78 %
+TypeScript   42 hrs 49 mins  ██████░░░░░░░░░░░░░░░░░░░   24.58 %
+PHP          7 hrs 19 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Kotlin       6 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Docker       4 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+CSS          2 hrs 20 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Python       2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+JavaScript   1 hr 44 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
 <!--END_SECTION:waka-->
