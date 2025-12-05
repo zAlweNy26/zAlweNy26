@@ -12,18 +12,18 @@
 <!--START_SECTION:waka-->
 
 ```bash
-From: 03 November 2025 - To: 03 December 2025
+From: 04 November 2025 - To: 04 December 2025
 
-Total Time: 147 hrs 46 mins
+Total Time: 142 hrs 35 mins
 
-Vue.js           94 hrs          ███████████████▓░░░░░░░░░   63.24 %
-TypeScript       38 hrs 49 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
-CSS              4 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-PHP              1 hr 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-Other            52 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Python           43 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-HTML             40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Markdown         40 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Vue.js           91 hrs 14 mins  ████████████████░░░░░░░░░   63.35 %
+TypeScript       35 hrs 47 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.85 %
+CSS              4 hrs 32 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+PHP              1 hr 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Other            1 hr 26 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Python           55 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Markdown         42 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+HTML             34 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
