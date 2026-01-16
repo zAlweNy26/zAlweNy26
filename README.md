@@ -12,18 +12,18 @@
 <!--START_SECTION:waka-->
 
 ```bash
-From: 15 December 2025 - To: 14 January 2026
+From: 16 December 2025 - To: 15 January 2026
 
-Total Time: 99 hrs 9 mins
+Total Time: 98 hrs 32 mins
 
-Vue.js                     66 hrs 59 mins  ████████████████▓░░░░░░░░   66.93 %
-TypeScript                 14 hrs 48 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-PHP                        4 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-CSS                        1 hr 33 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-JavaScript                 1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+Vue.js                     65 hrs 58 mins  ████████████████▓░░░░░░░░   66.33 %
+TypeScript                 14 hrs 31 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
+PHP                        4 hrs 46 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+Python                     1 hr 18 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+CSS                        1 hr 7 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript                 1 hr 1 min      ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 Other                      55 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 Bash                       43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Makefile                   37 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
