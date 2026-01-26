@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```bash
-From: 25 December 2025 - To: 24 January 2026
+From: 26 December 2025 - To: 25 January 2026
 
-Total Time: 103 hrs 45 mins
+Total Time: 103 hrs 50 mins
 
-Vue.js                     65 hrs 8 mins   ███████████████▓░░░░░░░░░   62.03 %
-TypeScript                 16 hrs 39 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.86 %
-PHP                        5 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+Vue.js                     65 hrs 8 mins   ███████████████▒░░░░░░░░░   61.98 %
+TypeScript                 16 hrs 44 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.92 %
+PHP                        5 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
 Python                     4 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
 Other                      1 hr 15 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 JavaScript                 1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
