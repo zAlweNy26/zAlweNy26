@@ -12,18 +12,18 @@
 <!--START_SECTION:waka-->
 
 ```bash
-From: 01 June 2026 - To: 01 July 2026
+From: 02 June 2026 - To: 02 July 2026
 
-Total Time: 123 hrs 49 mins
+Total Time: 125 hrs 36 mins
 
-Vue           46 hrs 8 mins         █████████▒░░░░░░░░░░░░░░░   36.72 %
-TypeScript    40 hrs 59 mins        ████████░░░░░░░░░░░░░░░░░   32.63 %
-Python        6 hrs 21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-JavaScript    3 hrs 44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
-Markdown      3 hrs 15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
-Other         1 hr 49 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Bash          1 hr 18 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-Docker        56 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Vue           44 hrs 49 mins        ████████▓░░░░░░░░░░░░░░░░   35.17 %
+TypeScript    38 hrs 56 mins        ███████▓░░░░░░░░░░░░░░░░░   30.56 %
+Python        12 hrs 9 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+JavaScript    3 hrs 23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+Markdown      3 hrs 15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Other         1 hr 49 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+Bash          1 hr 7 mins           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Docker        56 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
