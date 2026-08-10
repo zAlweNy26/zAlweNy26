@@ -12,17 +12,17 @@
 <!--START_SECTION:waka-->
 
 ```bash
-From: 09 July 2026 - To: 08 August 2026
+From: 10 July 2026 - To: 09 August 2026
 
-Total Time: 100 hrs 10 mins
+Total Time: 93 hrs 11 mins
 
-Vue                  51 hrs 29 mins        ████████████▓░░░░░░░░░░░░   50.95 %
-TypeScript           20 hrs 29 mins        █████░░░░░░░░░░░░░░░░░░░░   20.28 %
-Python               8 hrs 25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-Markdown             3 hrs 30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-CSS                  1 hr 41 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Kotlin               1 hr 37 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
-JavaScript           58 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Vue                  49 hrs 25 mins        █████████████░░░░░░░░░░░░   52.55 %
+TypeScript           19 hrs 26 mins        █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+Python               8 hrs 21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+Markdown             3 hrs 11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
+CSS                  1 hr 41 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+JavaScript           54 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other                51 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
