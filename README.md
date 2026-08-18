@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```bash
-From: 17 July 2026 - To: 16 August 2026
+From: 18 July 2026 - To: 17 August 2026
 
 Total Time: 65 hrs 33 mins
 
